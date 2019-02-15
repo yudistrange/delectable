@@ -45,3 +45,6 @@ npm-debug.log
 *.beam
 
 .tool-versions
+
+# Ignore elm stuff
+/assets/elm-stuff

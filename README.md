@@ -18,3 +18,6 @@ Ready to run in production? Please [check our deployment guides](https://hexdocs
   * Docs: https://hexdocs.pm/phoenix
   * Mailing list: http://groups.google.com/group/phoenix-talk
   * Source: https://github.com/phoenixframework/phoenix
+
+## Elm installation Guide
+  * https://blog.ispirata.com/get-started-with-elm-0-19-and-phoenix-1-4-291beebb350b
