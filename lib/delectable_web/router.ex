@@ -20,7 +20,9 @@ defmodule DelectableWeb.Router do
   end
 
   # Other scopes may use custom stacks.
-  # scope "/api", DelectableWeb do
-  #   pipe_through :api
-  # end
+  scope "/api", DelectableWeb do
+    pipe_through :api
+
+    get "/", PageController, :random
+  end
 end
